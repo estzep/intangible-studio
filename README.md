@@ -1,2 +1,7 @@
-# intangible-studio
-Intangible Studio website (archived client project, PHP/MySQL)
+# Intangible Studio
+
+Old client website, PHP/CSS/JS.
+
+Design: Iñigo Zepeda (UI/UX). Frontend: Diego Zepeda.
+
+Archived project, not maintained.

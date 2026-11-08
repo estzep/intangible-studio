@@ -1,0 +1,49 @@
+/**********NeueMontreal**********/
+@font-face {
+    font-family: "NeueMontreal";
+    src: url(../fonts/NeueMontreal/NeueMontreal-Light.otf);
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "NeueMontreal";
+    src: url(../fonts/NeueMontreal/NeueMontreal-LightItalic.otf);
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "NeueMontreal";
+    src: url(../fonts/NeueMontreal/NeueMontreal-Regular.otf);
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "NeueMontreal";
+    src: url(../fonts/NeueMontreal/NeueMontreal-Italic.otf);
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "NeueMontreal";
+    src: url(../fonts/NeueMontreal/NeueMontreal-Medium.otf);
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "NeueMontreal";
+    src: url(../fonts/NeueMontreal/NeueMontreal-MediumItalic.otf);
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "NeueMontreal";
+    src: url(../fonts/NeueMontreal/NeueMontreal-Bold.otf);
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NeueMontreal";
+    src: url(../fonts/NeueMontreal/NeueMontreal-BoldItalic.otf);
+    font-style: italic;
+    font-weight: 700;
+}

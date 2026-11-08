@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-icons">
+      <rect width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="icons" clip-path="url(#clip-icons)">
+    <g id="eye" transform="translate(-1741 -4375)">
+      <g id="eye-2" data-name="eye" transform="translate(1749.395 4295.494)">
+        <g id="Grupo_110" data-name="Grupo 110" transform="translate(0 92.835)">
+          <g id="Grupo_109" data-name="Grupo 109" transform="translate(0)">
+            <path id="Trazado_971" data-name="Trazado 971" d="M27.037,100.977c-.243-.333-6.035-8.142-13.432-8.142S.415,100.644.173,100.977a.9.9,0,0,0,0,1.059c.243.333,6.035,8.142,13.432,8.142s13.189-7.809,13.432-8.142A.9.9,0,0,0,27.037,100.977ZM13.6,108.383c-5.449,0-10.168-5.183-11.565-6.878,1.4-1.7,6.1-6.877,11.565-6.877s10.167,5.182,11.565,6.878C23.774,103.2,19.065,108.383,13.6,108.383Z" transform="translate(0 -92.835)"/>
+          </g>
+        </g>
+        <g id="Grupo_112" data-name="Grupo 112" transform="translate(8.223 96.124)">
+          <g id="Grupo_111" data-name="Grupo 111" transform="translate(0 0)">
+            <path id="Trazado_972" data-name="Trazado 972" d="M160.1,154.725a5.382,5.382,0,1,0,5.382,5.382A5.388,5.388,0,0,0,160.1,154.725Zm0,8.97a3.588,3.588,0,1,1,3.588-3.588A3.592,3.592,0,0,1,160.1,163.7Z" transform="translate(-154.722 -154.725)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Rectángulo_37" data-name="Rectángulo 37" transform="translate(1741 4375)" fill="none" stroke="#000" stroke-width="1.5">
+        <rect width="44" height="44" stroke="none"/>
+        <rect x="0.75" y="0.75" width="42.5" height="42.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
