@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-icons">
+      <rect width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="icons" clip-path="url(#clip-icons)">
+    <g id="arrow_up" data-name="arrow up" transform="translate(-1741 -4375)">
+      <g id="Elipse_35" data-name="Elipse 35" transform="translate(1741 4375)" fill="none" stroke="#000" stroke-width="1.5">
+        <circle cx="22" cy="22" r="22" stroke="none"/>
+        <circle cx="22" cy="22" r="21.25" fill="none"/>
+      </g>
+      <path id="Icon_ionic-ios-arrow-round-down" data-name="Icon ionic-ios-arrow-round-down" d="M24.333,15.122a.908.908,0,0,1-1.278.007l-4.231-4.218V26.983a.9.9,0,0,1-1.807,0V10.911l-4.231,4.225a.914.914,0,0,1-1.278-.007.9.9,0,0,1,.007-1.272l5.767-5.725h0a1.014,1.014,0,0,1,.285-.188.862.862,0,0,1,.347-.069.906.906,0,0,1,.632.257l5.767,5.725A.885.885,0,0,1,24.333,15.122Z" transform="translate(1745.082 4379.123)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+body header {  }
+body header .header-container {  }
+body header .header-container .content {  }
+body header .header-container .content h1 { font-size: 4rem; font-weight: 400; line-height: 1; letter-spacing: 1px; color: var(--white); display: block; width: 45%; margin-bottom: 2.7rem; font-style: italic; }
+body header .header-container .content.style-type-1 img { display: block; width: 100%; margin: 0 auto; padding: 0; max-height: 95vh; object-fit: cover; object-position: 50%; }
+body header .header-container .content.style-type-2 img { display: block; width: 100%; margin: 0 auto; padding: 0; max-height: 95vh; object-fit: cover; object-position: 50%; }
+
+body section {  }
+body section .section-container {  }
+body section .section-container .content {  }
+body section .section-container .content h2 { font-size: 1.5rem; font-weight: 400; line-height: 1.75; letter-spacing: 1px; color: var(--white); display: block; width: 100%; margin-bottom: 0; font-style: italic; border-bottom: 1px solid var(--white); padding: 2rem  0 .7rem 0; }
+body section .section-container .content h2 .muted { font-style: normal; font-weight: 300; }
+body section .section-container .content .text { font-size: 1.4rem; font-weight: 300; line-height: 1.7; letter-spacing: 1px; color: var(--white); margin-bottom: 0; padding: .7rem 0; }
+body section:last-child .section-container .content { padding-bottom: 6rem; }
+body section .section-container .content.style-type-1 img { display: block; width: 100%; margin: 0 auto; padding: 1.5rem 0; max-height: 95vh; object-fit: cover; object-position: 50%; }
+body section .section-container .content.style-type-2 img { display: block; width: 100%; margin: 0 auto; padding: 1.5rem 0; max-height: 95vh; object-fit: cover; object-position: 50%; }
+
+
+/**********Large (lg)**********/
+@media (max-width: 1199.98px) {
+	body {  }
+}
+
+/**********Medium (md)**********/
+@media (max-width: 991.98px) {
+	body {  }
+	body header .header-container .content h1 { width: 75%; }
+}
+
+/**********Small (sm)**********/
+@media (max-width: 767.98px) {
+	body {  }
+	body header .header-container .content h1 { font-size: 2.2rem; margin-bottom: 1.25rem; line-height: 1.3; width: 75%; }
+	body section .section-container .content h2 { font-size: .95rem; line-height: 1.5; padding: 1.5rem  0 1rem 0; }
+	body section .section-container .content .text { font-size: .95rem; line-height: 2; }
+	body section .section-container .content.style-type-1 img { padding: .75rem 0; }
+}
+
+/**********Extra small (xs)**********/
+@media (max-width: 575.98px) {
+	body {  }
+	body header .header-container .content h1 { width: 90%; }
+}

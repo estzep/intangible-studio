@@ -1,0 +1,199 @@
+{
+    "context": {
+    	"proyectosDestacados": ["1", "2", "9", "3", "6", "8", "5", "4", "7"],
+    	"proyectos": {
+    		"1": {
+    			"path": "cactus_cafe",
+    			"titulo": "Cactus Café",
+    			"subtitulo": "branding & packaging",
+                "lugar": "México",
+                "fecha": "2021",
+    			"descripcion": "El Cactus is a Mexican brand of coffee produced in Oaxaca with a unique symbolism. In Latin America coffee is a sacred beverage, on one hand, it wakes us up in a daily basis as a society, on the other it is able to unite us in a sunday afternoon. Therefore, El Cactus seeks to become the motivation and motor for waking up as well as the perfect excuse for meeting an old friend.%20In some cultures it’s believed that when you give a cactus as a present to someone you are gifting them strength and peace, in others you gift a cactus in order to provide them protection.%20The beauty of its symbolism can also be related with coffee; a cup of coffee in the morning gives you strength, a cup in the evening provides peace and a cup at night bestows protection. Our main challenge was to represent these perfect blend of symbols and to honor our heritage within the visual identity. We designed a couple of illustrations to represent the values and principles of the project and created some creative texts to find the voice of the brand.",
+    			"imagenDestacada": ["1", "2", "3"],
+    			"imagenes": {
+    				"1": "Cactus_Sitio-01.png",
+                    "2": "Cactus_Sitio-02.png",
+                    "3": "Cactus_Sitio-03.png",
+                    "4": "Cactus_Sitio-04.png",
+                    "5": "Cactus_Sitio-05.png",
+                    "6": "Cactus_Sitio-06.png",
+                    "7": "Cactus_Sitio-07.png",
+                    "8": "Cactus_Sitio-08.png",
+                    "9": "Cactus_Sitio-09.png"
+    			},
+                "style": 2,
+                "clickable": true
+    		},
+            "2": {
+                "path": "edutricion",
+                "titulo": "EduTrición",
+                "subtitulo": "branding & naming",
+                "lugar": "México",
+                "fecha": "2021",
+                "descripcion": "EduTrición is an online platform with the purpose of giving the best tools and preparation to nutrition students in Mexico. Through online courses and a simulator, ET prepares senior students for the EGEL-NUTRI: their last and most important test of their careers. This platform seeks to inspire confidence in students and to assure positive results once it’s purchased. For the previous reasons we developed a simple yet symbolic identity to which students could feel encouraged. Our main goal was to create an attractive identity for a pioneer project on the mexican market.",
+                "imagenDestacada": "7",
+                "imagenes": {
+                    "1": "DSC_2062.jpg",
+                    "2": "DSC_2069.jpg",
+                    "3": "DSC_2120.jpg",
+                    "4": "DSC_2125-2.jpg",
+                    "5": "DSC_2130-2.jpg",
+                    "6": "DSC_2165-2.jpg",
+                    "7": "DSC_2202.jpg"
+                },
+                "style": 1,
+                "clickable": true
+            },
+            "3": {
+                "path": "gurume",
+                "titulo": "Gurume",
+                "subtitulo": "rebranding",
+                "lugar": "México",
+                "fecha": "2022",
+                "descripcion": "Gurume is a foodie blog based in Mexico City that focuses on recommending secret spots that provide good food and unique experiences to its community. We took inspiration from the essentials of every foodie to redesign Gurume’s identity, our goal was to communicate the passion for good food & the wisdom of a good eater through the creation of a character with these two qualities.",
+                "imagenDestacada": "1",
+                "imagenes": {
+                    "1": "Gurume_Behance-01.png",
+                    "2": "Gurume_Behance-02.png",
+                    "3": "Gurume_Behance-03.png",
+                    "4": "Gurume_Behance-04.png",
+                    "5": "Gurume_Behance-05.png"
+                },
+                "style": 1,
+                "clickable": true
+            },
+            "4": {
+                "path": "land_to_land",
+                "titulo": "Land to Land",
+                "subtitulo": "branding",
+                "lugar": "",
+                "fecha": "",
+                "descripcion": "",
+                "imagenDestacada": "1",
+                "imagenes": {
+                    "1": "DSC_1301.jpg"
+                },
+                "style": 1,
+                "clickable": false
+            },
+            "5": {
+                "path": "linkspira",
+                "titulo": "Linkspira",
+                "subtitulo": "branding",
+                "lugar": "",
+                "fecha": "",
+                "descripcion": "",
+                "imagenDestacada": "1",
+                "imagenes": {
+                    "1": "DSC_0904.jpg"
+                },
+                "style": 1,
+                "clickable": false
+            },
+            "6": {
+                "path": "ponce_de_leon_seguros",
+                "titulo": "Ponce de León Seguros",
+                "subtitulo": "rebranding",
+                "lugar": "México",
+                "fecha": "2021",
+                "descripcion": "Ponce de Leon Seguros is an insurance company with more than 30 years of experience. Since its inception, the company has aimed to offer a diligent service and personalized attention at all times no matter the type of insurance the client wants to hire.%20This company truly cares about the well being of their clients and employees, this feeling is the main drive and philosophy behind all the activities the company develops on a daily basis. Through the sales of insurance, Ponce de Leon Seguros aims to promote security and protection of thousands of individuals in different areas.%20Our goal was to create a visual identity that transmits trust and confidence without leaving behind the key formality of the company, we aimed to transmit the genuine interest the company has with each one of their clientes and employees.",
+                "imagenDestacada": "5",
+                "imagenes": {
+                    "1": "DSC_1790-2.jpg",
+                    "2": "DSC_1797-2.jpg",
+                    "3": "DSC_1816-2.jpg",
+                    "4": "DSC_1928-2.jpg",
+                    "5": "DSC_1938-2.jpg"
+                },
+                "style": 1,
+                "clickable": true
+            },
+            "7": {
+                "path": "run_ron",
+                "titulo": "Run Ron",
+                "subtitulo": "branding",
+                "lugar": "",
+                "fecha": "",
+                "descripcion": "",
+                "imagenDestacada": "1",
+                "imagenes": {
+                    "1": "RUN_RON_behance-10.png"
+                },
+                "style": 1,
+                "clickable": false
+            },
+            "8": {
+                "path": "unoa100",
+                "titulo": "Unoa100",
+                "subtitulo": "branding",
+                "lugar": "",
+                "fecha": "",
+                "descripcion": "",
+                "imagenDestacada": "1",
+                "imagenes": {
+                    "1": "DSC_1168-2.jpg"
+                },
+                "style": 1,
+                "clickable": false
+            },
+            "9": {
+                "path": "echamos_el_coffee",
+                "titulo": "Echamos El Coffee",
+                "subtitulo": "branding & naming",
+                "lugar": "México",
+                "fecha": "2022",
+                "descripcion": "Echemos El Coffee is a coffee blog that recommends coffee shops in Mexico City through photographs and reviews on social media. The project’s mission is to create a community of coffee lovers that enjoy discovering new places.%20We developed an interesting typography system for communication on the different platforms as well as some stickers that were placed in secret spots around the city. The naming seeks to create a bond with the viewers as well as making them want to share a coffee with someone special.",
+                "imagenDestacada": "7",
+                "imagenes": {
+                    "1": "EEC_DOC-01.png",
+                    "2": "EEC_DOC-02.png",
+                    "3": "EEC_DOC-03.png",
+                    "4": "EEC_DOC-04.png",
+                    "5": "EEC_DOC-05.png",
+                    "6": "EEC_DOC-06.png",
+                    "7": "EEC_DOC-07.png",
+                    "8": "EEC_DOC-08.png",
+                    "9": "EEC_DOC-09.png"
+                },
+                "style": 1,
+                "clickable": true
+            }
+    	},
+        "logofolio": [
+            "Logofolio-1-linkspira.svg",
+            "Logofolio-2-runron.svg",
+            "Logofolio-3-edutricion.svg",
+            "Logofolio-4-unoa100.svg",
+            "Logofolio-5-ponce.svg",
+            "Logofolio-6-gurume.svg",
+            "Logofolio-7-mirada.svg",
+            "Logofolio-8-panzazo.svg",
+            "Logofolio-9-cafeto.svg",
+            "Logofolio-10-land.svg",
+            "Logofolio-11-artemiz.svg",
+            "Logofolio-12-halia.svg",
+            "Logofolio-13-libro.svg",
+            "Logofolio-14-cactus.svg",
+            "Logofolio-15-linkspira.svg",
+            "Logofolio-16-mano.svg",
+            "Logofolio-17-gurume.svg",
+            "Logofolio-18-land.svg",
+            "Logofolio-19-vino.svg",
+            "Logofolio-20-cactus.svg",
+            "Logofolio-21.svg",
+            "Logofolio-22.svg",
+            "Logofolio-23.svg",
+            "Logofolio-24.svg",
+            "Logofolio-25.svg",
+            "Logofolio-26.svg",
+            "Logofolio-27.svg",
+            "Logofolio-28.svg",
+            "Logofolio-29.svg",
+            "Logofolio-30.svg",
+            "Logofolio-31.svg",
+            "Logofolio-32.svg",
+            "Logofolio-33.svg",
+            "Logofolio-34.svg"
+        ]
+    }
+}
